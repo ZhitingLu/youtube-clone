@@ -1,0 +1,4 @@
+.sidebar {
+    flex: 0.2; /* between 0 to 1, 0.2 = 20 % where flex bar is 100% */
+
+}

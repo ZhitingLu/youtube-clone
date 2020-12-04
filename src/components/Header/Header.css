@@ -1,0 +1,45 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background-color: white;
+}
+
+.header__logo {
+    height: 25px;
+    object-fit: contain;
+    margin-left: 30px;
+}
+
+.header__input {
+    display: flex;
+    align-items: center;
+    width: 40%;
+    border: 1px solid lightgrey;
+}
+
+.header__inputButton {
+    color: #606060;
+    width: 50px !important; /*to overwrite the material ui setting */
+    background-color: snow;
+    border-left: 1px solid lightgrey;
+}
+
+.header__icon {
+    margin-right: 8px;
+}
+
+.header__icons {
+    display: flex;
+    align-items: center;
+    margin-right: 20px;
+}
+
+.header__input > input {
+    flex: 1; /* take as much space as it can */
+    border: none;
+}
