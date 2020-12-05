@@ -1,4 +1,11 @@
 .recommendedVideos {
     flex: 0.8;
-    border: 1px solid black;
+    border: 1px solid lightgray;
+    background-color: #f9f9f9;
+    padding-bottom: 0;
+}
+
+.h2 {
+    margin-left: 5px;
+    margin-bottom: 20px;
 }
