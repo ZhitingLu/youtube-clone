@@ -18,7 +18,6 @@ function App() {
         <Sidebar />
         <RecommendedVideos />
       </div>
-      <Footer />
 
     </div>
   );
