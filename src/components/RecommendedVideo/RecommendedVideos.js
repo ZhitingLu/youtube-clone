@@ -23,6 +23,19 @@ const RecommendedVideos = () => {
                 <VideoCard />
                 <VideoCard />
                 <VideoCard />
+                <VideoCard />
+                <VideoCard />
+                <VideoCard />
+                <VideoCard />
+                <VideoCard />
+                <VideoCard />
+                <VideoCard />
+                <VideoCard />
+                <VideoCard />
+                <VideoCard />
+                <VideoCard />
+                <VideoCard />
+
 
             </div>
         </div>
