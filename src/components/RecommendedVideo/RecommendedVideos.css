@@ -1,11 +1,19 @@
 .recommendedVideos {
     flex: 0.8;
-    border: 1px solid lightgray;
+    border: 1px none lightgray;
     background-color: #f9f9f9;
     padding-bottom: 0;
+    margin-top: 40px;
 }
 
 .h2 {
-    margin-left: 5px;
+    margin-left: 20px;
     margin-bottom: 20px;
+}
+
+.recommendedVideos__videos {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 15px;
+    margin-left: 15px;
 }
