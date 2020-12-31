@@ -49,7 +49,7 @@ const RecommendedVideos = () => {
                  channel="Jump Rope Dudes"
                  image="https://i.ytimg.com/an_webp/TeThU_Xyl0c/mqdefault_6s.webp?du=3000&sqp=CNLO8v4F&rs=AOn4CLAHoNN2f5Tf6HghTLbhvdGALyKnCQ"
                 />
-                
+                 
                <VideoCard 
                  title="7 High Protein Breakfast For Weight Loss"
                  views="6.1 views"
